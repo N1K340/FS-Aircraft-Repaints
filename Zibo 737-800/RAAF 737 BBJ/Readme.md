@@ -3,7 +3,7 @@ A36-001 and A36-002 are painted based on photos indicating livery for 2022. The 
 
 Note: Both of these aircraft are -700 variants in real life, this repaint removes the forward overwing exit and escape path light from the textures of the airframe, however, they are hard modelled into the airframe and still exist if you open / turn them on respectively.
 
-![A36-002](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/Zibo%20737-800/RAAF%20737%20BBJ/pic/A36-001.jpg)
+![A36-001](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/Zibo%20737-800/RAAF%20737%20BBJ/pic/A36-001.jpg)
 
 Installation
 ============
