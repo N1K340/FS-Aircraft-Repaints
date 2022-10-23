@@ -12,6 +12,6 @@ RAAF 737 BBJ
 
 *Flight Factor 757/767*<br>
 FSE Cargo 757-200F
-[Download](https://github.com/N1K340/FS-Aircraft-Repaints/releases/tag/XP-FF757-FSE)
+[Download](https://github.com/N1K340/FS-Aircraft-Repaints/releases/tag/XP-FF757-FSEcargo)
 ![B757-200F](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/FF%20757/FSE%20Cargo%20757-200F/pic/757-200F.jpg)
 
