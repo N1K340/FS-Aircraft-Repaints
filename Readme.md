@@ -9,6 +9,9 @@ RAAF 737 BBJ
 [Download](https://github.com/N1K340/FS-Aircraft-Repaints/releases/tag/XP-Zibo-RAAF)
 ![A36-001](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/Zibo%20737-800/RAAF%20737%20BBJ/pic/A36-001.jpg)
 
+Regional Express 737-800
+[Download](https://github.com/N1K340/FS-Aircraft-Repaints/releases/tag/XP-Zibo-Rex)
+![VH-RQC](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/Zibo%20737-800/Rex%20737-800/pic/VH-RQC.jpg)
 
 *Flight Factor 757/767*<br>
 FSE Cargo 757-200F
