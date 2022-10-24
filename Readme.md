@@ -15,3 +15,8 @@ FSE Cargo 757-200F
 [Download](https://github.com/N1K340/FS-Aircraft-Repaints/releases/tag/XP-FF757-FSEcargo)
 ![B757-200F](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/FF%20757/FSE%20Cargo%20757-200F/pic/757-200F.jpg)
 
+*LES Saab 340-A*<br>
+Regional Express Group VH-EKD / VH-KDB
+[Download](https://github.com/N1K340/FS-Aircraft-Repaints/releases/tag/LES-Rex)
+![VH-EKD](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/LES%20340/Rex%20Group/pic/EKD2.jpg)
+![VH-KDB](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/LES%20340/Rex%20Group/pic/KDB1.jpg)
