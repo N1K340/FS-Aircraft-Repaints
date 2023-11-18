@@ -2,6 +2,11 @@ This is a collection of repaints for various aircraft in the Microsoft Flight Si
 
 All are distributed under the GPL v3 licence which permits freeware derivative works under acknowledgment credits.
 
+**MSFS 2020**
+*Headwinds A330-900*<br>
+[Download](https://flightsim.to/file/63434/qantas-freight-a330-900-vh-ebf/)
+![VH-EBF](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/Headwinds%20A330/Qantas%20Freight%20EBF/images/EBF_3.jpg)
+
 **X-Plane 11/12**
 
 *Zibo 737-800X*<br>
