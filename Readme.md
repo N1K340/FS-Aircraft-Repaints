@@ -4,6 +4,7 @@ All are distributed under the GPL v3 licence which permits freeware derivative w
 
 **MSFS 2020**
 *Headwinds A330-900*<br>
+Qantas Freight VH-EBF
 [Download](https://flightsim.to/file/63434/qantas-freight-a330-900-vh-ebf/)
 ![VH-EBF](https://github.com/N1K340/FS-Aircraft-Repaints/blob/main/Headwinds%20A330/Qantas%20Freight%20EBF/images/EBF_3.jpg)
 
